@@ -1,0 +1,15 @@
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\bin\Debug\net6.0\true.com.exe
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\bin\Debug\net6.0\true.com.deps.json
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\bin\Debug\net6.0\true.com.runtimeconfig.json
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\bin\Debug\net6.0\true.com.dll
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\bin\Debug\net6.0\true.com.pdb
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.csproj.AssemblyReference.cache
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.AssemblyInfoInputs.cache
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.AssemblyInfo.cs
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.csproj.CoreCompileInputs.cache
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.dll
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\refint\true.com.dll
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.pdb
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\true.com.genruntimeconfig.cache
+C:\Users\SMAPE - V\source\repos\ConsoleApp2\true.com\obj\Debug\net6.0\ref\true.com.dll
