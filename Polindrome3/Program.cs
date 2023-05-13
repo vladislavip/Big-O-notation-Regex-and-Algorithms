@@ -1,6 +1,14 @@
 ﻿
 
 using System;
+using System.Data.Common;
+using System.Runtime.CompilerServices;
+
+
+
+
+
+
 
 Console.WriteLine("Enter your first word");
 
@@ -29,19 +37,26 @@ if (word1.Length== word2.Length)
                 //Match
 
                 counter++;
-                 while (counter==word1.Length)
-                {
 
-                    Console.WriteLine($"Your words: {word1}, {word2} are  anagrams");
-                    break;
-                }
+                break;
+
+
+                //counter++;
+                // while (counter==word1.Length)
+                //{
+
+                //    Console.WriteLine($"Your words: {word1}, {word2} are  anagrams");
+                //    break;
+                //}
 
 
             }
                
             else
             {
-                //Mot matched
+
+                continue;
+                
             }
 
 
@@ -59,7 +74,19 @@ if (word1.Length== word2.Length)
 
 
 
+if (counter == word1.Length)
 
+{
+
+    Console.WriteLine($"Your words: {word1}, {word2} are  anagrams");
+
+}
+
+else
+
+{
+    Console.WriteLine($"Your words: {word1}, {word2} are not anagrams");
+}
 
 
 
